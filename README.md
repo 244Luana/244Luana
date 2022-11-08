@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @244Luana
+- 👋 Hi, I’m @Luana
 - 👀 I’m interested in front technologies
 - 💞️ I’m trying to reach the full dev level
 - 📫 How to reach me 244luana@gmail.com
