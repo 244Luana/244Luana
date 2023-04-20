@@ -18,6 +18,12 @@
     
     → Infelizmente ainda não sou gamer, mas estou sempre disposta a jogar um jogo de navegador 👾 eai, anima?
 
+<div>
+<a href="https://github.com/244Luana">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?244Luana&layout=compact&langs_count=7&theme=cobalt"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?244Luana&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+</div>
+
 ## Ferramentas e tecnologias que estou atuando/aprendendo:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40" height="40"/>
