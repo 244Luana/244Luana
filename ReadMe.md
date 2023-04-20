@@ -11,6 +11,7 @@
 - Interesses: 
 
     → Apaixonada por livros 📚
+    
     → Artes no geral 💃🏽🎬👩🏽‍🎨
     
     → Infelizmente ainda não sou gamer, mas estou sempre disposta a jogar um jogo de navegador 👾 eai, anima?
