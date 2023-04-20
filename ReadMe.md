@@ -2,11 +2,15 @@
 
 - 👩🏽‍🎓 Cursando Sistemas de Informação
 
+- 💬 Técnica em Informática pelo CEFET 
+
 - 💻 Estagiária na DTI Sistemas Digitais
 
 - ✨ Encantada com desenvolvimento front
 
 - 📌 Despertando interesse em design
+
+- 📫 Entre em contato comigo pelo email 244amaral@gmail.com
 
 - Interesses: 
 
