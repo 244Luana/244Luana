@@ -17,21 +17,18 @@
     → Artes no geral 💃🏽🎬👩🏽‍🎨
     
     → Infelizmente ainda não sou gamer, mas estou sempre disposta a jogar um jogo de navegador 👾 eai, anima?
-<div>
-    <img svg = "WelcomeImage.png"/>
-</div>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/244Luana=anuraghazra&repo=github-readme-stats" />
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
+<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/pin/244Luana=anuraghazra&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/244Luana=anuraghazra&repo=convoychat" />
-</a>
+<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/pin/244Luana=anuraghazra&repo=convoychat" />
+</a> -->
 
 <div>
 <a href="https://github.com/244Luana">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=244Luana&layout=compact&langs_count=7&theme=cobalt"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=244Luana&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+<img justify-content="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=244Luana&layout=compact&langs_count=7&theme=cobalt"/>
+<img justify-content="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=244Luana&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
 </div>
 
 ## Ferramentas e tecnologias que estou atuando/aprendendo:
