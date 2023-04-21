@@ -20,8 +20,8 @@
 
 <div margin="auto">
     <a href="https://github.com/244Luana">
-    <img align_items_="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=244Luana&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-    <img align_items="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=244Luana&layout=compact&langs_count=7&theme=cobalt"/>
+    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=244Luana&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=244Luana&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
 
 ## Ferramentas e tecnologias que estou atuando/aprendendo:
