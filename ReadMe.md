@@ -18,7 +18,7 @@
     
     → Infelizmente ainda não sou gamer, mas estou sempre disposta a jogar um jogo de navegador 👾 eai, anima?
 
-<div>
+<div margin_right="700px">
     <a href="https://github.com/244Luana">
     <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=244Luana&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
     <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=244Luana&layout=compact&langs_count=7&theme=cobalt"/>
