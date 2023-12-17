@@ -8,8 +8,6 @@
 
 - ✨ Encantada com desenvolvimento front
 
-- 📌 Despertando interesse em design
-
 - Interesses:
 
     → Apaixonada por livros 📚
