@@ -4,9 +4,9 @@
 
 - 💬 Técnica em Informática pelo CEFET-MG
 
-- 💻 Estagiária na DTI Sistemas Digitais
+- 💻 Desenvolvedora Fullstack na DTI Sistemas Digitais
 
-- ✨ Encantada com desenvolvimento front
+- ✨ Aspirante a designer (yeess, design is my passion)
 
 - Interesses:
 
